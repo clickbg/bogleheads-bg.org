@@ -1,0 +1,101 @@
+baseURL: "/"
+title: 'Българската общност на пасивните инвеститори'
+paginate: 5
+theme: [PaperMod]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+disableHugoGeneratorInject: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Categories
+          url: categories/
+          weight: 5
+        - name: Archive
+          url: archives
+          weight: 10
+        - name: Search
+          url: search/
+          weight: 15
+        - name: Gallery
+          url: gallery/
+          weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Of Mice and Men"
+  author: Daniel
+
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  tocopen: true
+
+  homeInfoParams:
+    Title: "Welcome, Wanderer of the Web!"
+    Content: >
+        Welcome to my quirky little blog, where technology reigns supreme and random ramblings abound.
+        Buckle up for a wild ride through errors and bugs, with a sprinkle of silliness on top.
+        So grab a seat, grab a drink, and let's dive into this adventure together.
+        Cheers to laughter and lightheartedness!
+        Stay tuned for more antics!
+
+  assets:
+    disableHLJS: true
+    favicon: "favicon.png"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+privacy:
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
