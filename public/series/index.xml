@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on PaperMod</title>
+    <title>Series on Bogleheads България</title>
     <link>/series/</link>
-    <description>Recent content in Series on PaperMod</description>
-    <image>
-      <title>PaperMod</title>
-      <url>/images/papermod-cover.png</url>
-      <link>/images/papermod-cover.png</link>
-    </image>
+    <description>Recent content in Series on Bogleheads България</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <copyright>PaperMod Contributors</copyright>
     <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
