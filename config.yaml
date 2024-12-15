@@ -35,6 +35,9 @@ languages:
         - name: Търси
           url: search
           weight: 15
+        - name: Test
+          url: series
+          weight: 25
 
 outputs:
   home:
