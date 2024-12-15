@@ -21,7 +21,7 @@ languages:
     languageName: "Български"
     weight: 1
     taxonomies:
-      category: categories
+      category: категории
       tag: tags
       series: series
     menu:
@@ -30,7 +30,7 @@ languages:
           url: categories/
           weight: 5
         - name: Архив
-          url: archives
+          url: archives/
           weight: 10
         - name: Търси
           url: search/
