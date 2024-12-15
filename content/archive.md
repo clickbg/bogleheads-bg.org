@@ -1,5 +1,5 @@
 ---
-title: "Архив"
+title: "Статии"
 layout: "archives"
 url: "/archives/"
 summary: архив

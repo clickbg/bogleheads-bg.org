@@ -23,15 +23,12 @@ languages:
     languageCode: bg-BG
     weight: 1
     taxonomies:
-      category: категории
+      category: categories
       tag: tags
       series: series
     menu:
       main:
-        - name: Категории
-          url: категории
-          weight: 5
-        - name: Архив
+        - name: Статии
           url: archives
           weight: 10
         - name: Търси
