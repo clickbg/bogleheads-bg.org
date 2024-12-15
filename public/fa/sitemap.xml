@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/fa/facategories/</loc>
+  </url><url>
+    <loc>/fa/faseries/</loc>
+  </url><url>
+    <loc>/fa/fatags/</loc>
+  </url><url>
+    <loc>/fa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/"
+                />
+  </url>
+</urlset>
