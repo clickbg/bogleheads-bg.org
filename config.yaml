@@ -26,18 +26,15 @@ languages:
       series: series
     menu:
       main:
-        - name: Categories
+        - name: Категории
           url: categories/
           weight: 5
-        - name: Archive
+        - name: Архив
           url: archives
           weight: 10
-        - name: Search
+        - name: Търси
           url: search/
           weight: 15
-        - name: Gallery
-          url: gallery/
-          weight: 20
 
 outputs:
   home:
@@ -47,8 +44,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Of Mice and Men"
-  author: Daniel
+  description: "Автор"
+  author: Даниел
 
   defaultTheme: dark
   disableThemeToggle: true
@@ -65,13 +62,10 @@ params:
   tocopen: true
 
   homeInfoParams:
-    Title: "Welcome, Wanderer of the Web!"
+    Title: "Добре дошли в българския портал за пасивни инвестиции!"
     Content: >
-        Welcome to my quirky little blog, where technology reigns supreme and random ramblings abound.
-        Buckle up for a wild ride through errors and bugs, with a sprinkle of silliness on top.
-        So grab a seat, grab a drink, and let's dive into this adventure together.
-        Cheers to laughter and lightheartedness!
-        Stay tuned for more antics!
+        В процес на разработка
+        Благодаря
 
   assets:
     disableHLJS: true
