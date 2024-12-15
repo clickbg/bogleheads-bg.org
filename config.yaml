@@ -17,7 +17,7 @@ minify:
   disableXML: true
 
 languages:
-  bg:
+  en:
     languageName: "Български"
     weight: 1
     taxonomies:
