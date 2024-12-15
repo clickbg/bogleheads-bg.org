@@ -17,8 +17,9 @@ minify:
   disableXML: true
 
 languages:
-  en:
-    languageName: "Български"
+  bg:
+    languageName: "Bulgarian"
+    languageCode: bg-BG
     weight: 1
     taxonomies:
       category: категории
