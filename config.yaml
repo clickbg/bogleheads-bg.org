@@ -28,6 +28,8 @@ languages:
       series: series
     menu:
       main:
+        - name: Bogleheads US
+          url: https://www.bogleheads.org/
         - name: Статии
           url: archives
           weight: 10
