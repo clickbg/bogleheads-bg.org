@@ -3,6 +3,7 @@ title: 'Bogleheads България'
 paginate: 5
 theme: [PaperMod]
 
+defaultContentLanguage: 'bg'
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
