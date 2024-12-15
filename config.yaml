@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://bogleheads-bg.org/"
 title: 'Bogleheads България'
 paginate: 5
 theme: [PaperMod]
