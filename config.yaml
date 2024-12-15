@@ -27,13 +27,13 @@ languages:
     menu:
       main:
         - name: Категории
-          url: categories/
+          url: categories
           weight: 5
         - name: Архив
-          url: archives/
+          url: archives
           weight: 10
         - name: Търси
-          url: search/
+          url: search
           weight: 15
 
 outputs:
