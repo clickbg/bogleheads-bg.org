@@ -21,7 +21,7 @@ languages:
     languageName: "Български"
     weight: 1
     taxonomies:
-      category: категории
+      category: categories
       tag: tags
       series: series
     menu:
