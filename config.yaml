@@ -48,8 +48,8 @@ params:
   subtitle: 'Българската общност на пасивните инвеститори'
   author: Даниел
 
-  defaultTheme: auto
-  disableThemeToggle: false
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   displayFullLangName: true
@@ -70,6 +70,8 @@ params:
     Content: >
       **Bogleheads®** е титлата, приета от много от инвестиционните ентусиасти, които инвестират по пасивен начин.
         Терминът има за цел да почете основателя на Vanguard и адвокат на малките инвеститори [Джон Богъл](https://en.wikipedia.org/wiki/John_C._Bogle).
+
+
         Хората следващи Bogleheads® методологията на инвестиране наблягат на:  
   
       ✅ Ранното започване  
