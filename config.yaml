@@ -62,6 +62,9 @@ params:
   ShowToc: true
   tocopen: true
 
+  profileMode:
+    enabled: false
+
   homeInfoParams:
     Title: "Добре дошли в българското общество на пасивните инвеститори!"
     Content: >
@@ -74,11 +77,6 @@ params:
       - Редовно спестяване  
       - Широка диверсификация на инвестициите  
       - Простота в инвестирането и придържането към инвестиционния план, независимо от пазарните условия  
-
-  socialIcons:
-    - name: github
-      title: View Source on Github
-      url: "https://github.com/clickbg/bogleheads-bg.org"
 
   assets:
     disableHLJS: true
