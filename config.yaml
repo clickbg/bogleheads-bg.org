@@ -31,7 +31,7 @@ languages:
         - name: Bogleheads US
           url: https://www.bogleheads.org/
           weight: 5
-          external: true
+          external: 1
         - name: Статии
           url: archives
           weight: 10
