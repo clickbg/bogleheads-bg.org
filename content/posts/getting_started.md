@@ -1,7 +1,7 @@
 ---
 title: "Първи стъпки"
 date: 2024-12-15T11:53:10+02:00
-slug: 2024-12-15-getting_started
+slug: getting_started
 type: posts
 draft: false
 weight: 1
