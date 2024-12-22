@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "Предишна страница"
+
+- id: next_page
+  translation: "Следваща страница"
+
+- id: read_time
+  translation:
+    one : "1 мин"
+    other: "{{ .Count }} мин"
+
+- id: toc
+  translation: "Съдържание"
+
+- id: translations
+  translation: "Преводи"
+
+- id: words
+  translation:
+    one : "дума"
+    other: "{{ .Count }} думи"
+
+- id: home
+  translation: "Начало"
+
+- id: edit_post
+  translation: "Редакция"
+
+- id: code_copy
+  translation: "Копиране"
+
+- id: code_copied
+  translation: "капиран!"
