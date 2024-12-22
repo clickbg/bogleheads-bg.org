@@ -1,5 +1,6 @@
 ---
 title: "Първи стъпки"
+author: "Даниел"
 date: 2024-12-15T11:53:10+02:00
 slug: getting_started
 type: posts

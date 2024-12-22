@@ -51,7 +51,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: 'Българската общност на пасивните инвеститори'
   subtitle: 'Българската общност на пасивните инвеститори'
-  author: Даниел
+  author: Анонимен
 
   defaultTheme: dark
   disableThemeToggle: true

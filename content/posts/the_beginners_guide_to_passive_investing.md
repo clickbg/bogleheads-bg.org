@@ -1,5 +1,6 @@
 ---
 title: "Началното ръководство за пасивни инвестиции"
+author: "Даниел"
 date: 2024-12-15T17:02:09+02:00
 slug: the_beginners_guide_to_passive_investing
 type: posts
