@@ -91,7 +91,7 @@ params:
       ✅ Простота в инвестирането и придържането към инвестиционния план, независимо от пазарните условия  
 
   socialIcons:
-    - name: github
+    - name: email
       title: Свържете се с нас
       url: "https://github.com/clickbg/bogleheads-bg.org/issues"
 
