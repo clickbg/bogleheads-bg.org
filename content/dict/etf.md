@@ -120,12 +120,13 @@ UCITS наподобява на взаимен фонд в САЩ. Те са р�
 Изключение съществува само за граждани на САЩ пребиваващи на територията на ЕС. Тези лица попадат под данъчните закони на САЩ и е препоръчително да следват съветите на официалното [Bogleheads US](https://www.bogleheads.org/forum/viewtopic.php?t=384493) общество.
 
 **Източници:**
-https://profit.bg/article/2024012422550822131
-https://www.bankeronwheels.com/ucits-etfs-vs-us-funds-for-non-us-investors/
-https://www.ucits-etfs.com/guides/what-is-ucits-etfs/
-https://bg.know-base.net/7579265-leveraged-etf
-https://www.elana.net/bg/trading/polezno/akademija/instrumenti-za-tyrgovija/borsovo-tyrguvani-fondove-etf
-https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%81%D0%BE%D0%B2%D0%BE_%D1%82%D1%8A%D1%80%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%B8_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2%D0%B5
-https://www.postbank.bg/Finansovi-Pazari-i-Investitsii/Investicionno-posrednichestvo/Targoviya-na-mezhdunarodni-fondovi-pazari/BorsovotarguvanifondoveETFs
-https://www.moitepari.bg/spravochnik/art/advices/borsovo_turguvani_fo~0a294d62-37e4-4044-8389-44ee8a15bb2b/
-https://nula.bg/blog/fondove-akcii-etf/
+
+https://profit.bg/article/2024012422550822131  
+https://www.bankeronwheels.com/ucits-etfs-vs-us-funds-for-non-us-investors/  
+https://www.ucits-etfs.com/guides/what-is-ucits-etfs/  
+https://bg.know-base.net/7579265-leveraged-etf  
+https://www.elana.net/bg/trading/polezno/akademija/instrumenti-za-tyrgovija/borsovo-tyrguvani-fondove-etf  
+https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%81%D0%BE%D0%B2%D0%BE_%D1%82%D1%8A%D1%80%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%B8_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2%D0%B5  
+https://www.postbank.bg/Finansovi-Pazari-i-Investitsii/Investicionno-posrednichestvo/Targoviya-na-mezhdunarodni-fondovi-pazari/BorsovotarguvanifondoveETFs  
+https://www.moitepari.bg/spravochnik/art/advices/borsovo_turguvani_fo~0a294d62-37e4-4044-8389-44ee8a15bb2b/  
+https://nula.bg/blog/fondove-akcii-etf/  
