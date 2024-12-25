@@ -7,7 +7,7 @@ type: posts
 draft: true
 weight: 10
 categories:
-  - default
+  - Наръчници
 tags:
-  - default
+  - Наръчници
 ---
