@@ -35,10 +35,10 @@ languages:
             external: true
           weight: 5
         - name: Статии
-          url: archives
+          url: posts
           weight: 10
         - name: Речник
-          url: /tags/речник/
+          url: dict
           weight: 15
         - name: Търси
           url: search
@@ -69,6 +69,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   tocopen: true
+  hideMeta: true
 
   profileMode:
     enabled: false
