@@ -1,6 +1,6 @@
 ---
 title: "Речник"
-layout: "dict"
+layout: "list"
 url: "/dict/"
 summary: Речник
 hideSummary: True
