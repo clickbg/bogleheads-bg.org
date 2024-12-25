@@ -6,7 +6,7 @@ date: 2024-12-25T13:39:40+02:00
 slug: money_market
 type: dict
 toc: false
-draft: true
+draft: false
 weight: 20
 categories:
   - Речник
