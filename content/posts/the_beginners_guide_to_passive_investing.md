@@ -196,3 +196,7 @@ LINK: https://www.bogleheads.org/wiki/Rebalancing
 
 Пенсионните фондове с целева дата автоматично се ребалансират вместо вас. Пример за подобни [UCITS фондове може да намерите тук](https://www.justetf.com/en/search.html?query=lifestrategy&search=ETFS).
 
+
+**Източници:**
+
+https://www.bogleheads.org/wiki/Getting_started_for_non-US_investors

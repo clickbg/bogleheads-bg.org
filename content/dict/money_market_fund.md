@@ -97,3 +97,10 @@ tags:
 > -   се информират за дейността на своите инвеститори;
 > -   предоставят съответната информация за надзора на съответните органи.
 
+
+**Източници:**
+
+https://eur-lex.europa.eu/BG/legal-content/summary/money-market-funds.html?fromSummary=24  
+https://www.consilium.europa.eu/bg/infographics/money-market-funds/  
+https://www.investor.bg/a/538-pazari/381694-fondovete-na-parichniya-pazar-ne-sa-bezriskovi-investitsii-i-tryabva-da-se-nablyudavat  
+https://www.capital.bg/moiat_capital/investments/2023/04/06/4469124_moiat_kapital_fondovete_na_parichniia_pazar_otnovo/  

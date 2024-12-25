@@ -71,3 +71,8 @@ _Основна статия: [Живейте под възможностите 
 | Не забравяйте да планирате приходи и разходи, които не се случват на месечна база. |  |
 
 [Пример за домашен бюджет в Google Sheets](https://spreadsheets.google.com/ccc?key=10e9DKUgoVVRun6Bv0pzoWsQqLtda8zH05Q-CCXOD4Yo) Ако не харесвате електронни таблици като Excel и Google Sheets може да използвате съвременни мобилни апликации за направата на вашия бюджет. Пример за популярни такива в България са [Wallet by BudgetBankers](https://budgetbakers.com/) както и [Budgetist](https://www.budgetist.app/bg/) . Внимание, ние не сме асоциирани с тези фирми и приложения. Моля проучете ги сами преди да им се доверите.
+
+
+**Източници:**
+
+https://www.bogleheads.org/wiki/Household_budgeting
