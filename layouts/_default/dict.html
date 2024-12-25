@@ -27,10 +27,6 @@
     {{ .Description | markdownify }}
   </div>
   {{- end }}
-<div id="searchbox">
-    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}" aria-label="search" type="search">
-    <ul id="searchResults" aria-label="search results"></ul>
-</div>
 </header>
 {{- end }}
 
@@ -41,6 +37,12 @@
   {{- else }}{{ .Content }}{{ end }}
 </div>
 {{- end }}
+
+<div id="searchbox">
+	    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
+	            aria-label="search" type="search" autocomplete="off" maxlength="64">
+	        <ul id="searchResults" aria-label="search results"></ul>
+</div>
 
 {{- $pages := union .RegularPages .Sections }}
 
