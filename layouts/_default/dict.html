@@ -63,6 +63,11 @@
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
 
+<div id="searchbox">
+	    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}" aria-label="search" type="search">
+	        <ul id="searchResults" aria-label="search results"></ul>
+</div>
+
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
