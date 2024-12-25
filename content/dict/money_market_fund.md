@@ -5,8 +5,9 @@ author: "Даниел"
 date: 2024-12-24T10:17:20+02:00
 slug: money_market_fund
 type: dict
+ShowToc: false
 draft: false
-weight: 10
+weight: 20
 categories:
   - Речник
 tags:
