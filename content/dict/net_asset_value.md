@@ -3,6 +3,7 @@ title: "Нетната стойност на активите на инвест�
 author: "Даниел"
 date: 2024-12-25T11:04:40+02:00
 slug: net_asset_value
+ssummary: ""
 type: dict
 draft: false
 weight: 10
