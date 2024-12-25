@@ -69,7 +69,6 @@ params:
   ShowPageNums: true
   ShowToc: true
   tocopen: true
-  hideMeta: true
 
   profileMode:
     enabled: false
