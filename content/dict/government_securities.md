@@ -5,7 +5,6 @@ author: "Даниел"
 date: 2024-12-25T14:13:14+02:00
 slug: government_securities
 type: dict
-ShowToc: false
 draft: false
 weight: 20
 categories:

@@ -5,7 +5,6 @@ author: "Даниел"
 date: 2024-12-25T13:39:40+02:00
 slug: money_market
 type: dict
-ShowToc: false
 draft: false
 weight: 20
 categories:
