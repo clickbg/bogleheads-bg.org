@@ -122,5 +122,4 @@ UCITS ETF-ите обикновено са базирани в Люксембу�
 
 https://www.bankeronwheels.com/ucits-etfs-vs-us-funds-for-non-us-investors/  
 https://www.ucits-etfs.com/guides/what-is-ucits-etfs/  
-https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%81%D0%BE%D0%B2%D0%BE_%D1%82%D1%8A%D1%80%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%B8_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2%D0%B5  
 https://nula.bg/blog/fondove-akcii-etf/  
