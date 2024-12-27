@@ -56,5 +56,4 @@ tags:
 **Източници:**
 
 https://www.bogleheads.org/wiki/Net_asset_value  
-https://dskam.bg/academy/mutual_fond/shareprice  
 https://en.wikipedia.org/wiki/Net_asset_value  
