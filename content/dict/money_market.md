@@ -4,6 +4,8 @@ summary: "Паричният пазар е финансов пазар на фи
 author: "Даниел"
 date: 2024-12-25T13:39:40+02:00
 slug: money_market
+aliases:
+  - money_markets
 type: dict
 draft: false
 weight: 20

@@ -4,6 +4,8 @@ summary: "Взаимните фондове са тип колективна и�
 author: "Даниел"
 date: 2024-12-26T09:00:09+02:00
 slug: mutual_fund
+aliases:
+  - mutual_funds
 type: dict
 draft: false
 weight: 20

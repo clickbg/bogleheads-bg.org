@@ -4,6 +4,9 @@ summary: "Борсово търгуваните фондове (БТФ) (на а
 author: "Даниел"
 date: 2024-12-25T19:19:33+02:00
 slug: etf
+aliases:
+  - etfs
+  - exchange_traded_funds
 type: dict
 draft: false
 weight: 20
@@ -121,5 +124,4 @@ UCITS ETF-ите обикновено са базирани в Люксембу�
 **Източници:**
 
 https://www.bankeronwheels.com/ucits-etfs-vs-us-funds-for-non-us-investors/  
-https://www.ucits-etfs.com/guides/what-is-ucits-etfs/  
 https://nula.bg/blog/fondove-akcii-etf/  

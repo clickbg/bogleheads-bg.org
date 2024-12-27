@@ -1,9 +1,13 @@
 ---
 title: "Фондове на паричния пазар"
-summary: "ФПП или MMF са фондове които инвестират в инструменти на паричния пазар"
+summary: "Фондовете на паричния пазар са тип колективни инвестиционни схеми, които инвестират в краткосрочни и нискорискови финансови инструменти"
 author: "Даниел"
 date: 2024-12-24T10:17:20+02:00
 slug: money_market_fund
+aliases:
+  - money_market_funds
+  - money_markets_fund
+  - money_markets_funds
 type: dict
 draft: false
 weight: 20

@@ -4,6 +4,9 @@ summary: "Държавните ценни книжа (ДЦК) са специа�
 author: "Даниел"
 date: 2024-12-25T14:13:14+02:00
 slug: government_securities
+aliases:
+  - government_bond
+  - government_bonds
 type: dict
 draft: false
 weight: 20

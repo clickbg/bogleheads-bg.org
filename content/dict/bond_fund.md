@@ -4,6 +4,10 @@ summary: "Облигационните фондове са вид колекти
 author: "Даниел"
 date: 2024-12-25T13:39:40+02:00
 slug: bond_fund
+aliases:
+  - bond_funds
+  - bonds_funds
+  - bonds_fund
 type: dict
 draft: false
 weight: 20
