@@ -7,7 +7,7 @@ slug: compounding
 aliases:
   - compounding_interest
 type: dict
-draft: true
+draft: false
 weight: 20
 categories:
   - Речник
