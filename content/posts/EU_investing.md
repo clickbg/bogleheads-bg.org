@@ -187,7 +187,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF $ Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK7Y2P34#overview">IE00BK7Y2P34</a></span> USD<br>Следи индекс: FTSE G7 Government Bond
+<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF $ Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK7Y2P34#overview">IE00BK7Y2P34</a></span> USD<br>Следи индекса: FTSE G7 Government Bond
 </th>
 <td>Световни държавни облигации - развити пазари <br> хеджиран ($)<sup id="cite_ref-eurohedge_5-1" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
 </td>
@@ -204,7 +204,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Глобални агрегирани облигации
 </th></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF USD Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BZ043R46#overview">IE00BZ043R46</a></span> USD<br>Следи индекс: Bloomberg Barclays Global Aggregate Bond
+<th style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF USD Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BZ043R46#overview">IE00BZ043R46</a></span> USD<br>Следи индекса: Bloomberg Barclays Global Aggregate Bond
 </th>
 <td>Колекция от глобални облигации  <br> хеджирани (US$)
 </td>
@@ -456,7 +456,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <tr>
 <th rowspan="3" style="font-weight:normal; text-align:left">iShares MSCI World Small Cap ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31#overview">IE00BF4RFH31</a></span> USD<br>Следи индекса: MSCI World Small Cap 
 </th>
-<td rowspan="3">MSCI World - развиващи се държави <br>Малка капитализация
+<td rowspan="3">MSCI World - развиващи се пазари <br>Малка капитализация
 </td>
 <td rowspan="3">0.35%
 </td>
