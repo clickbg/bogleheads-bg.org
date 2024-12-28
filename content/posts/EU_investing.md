@@ -120,7 +120,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Световни държавни ценни книжа (облигации)
 </th></tr>
 <tr>
-<th rowspan="5" style="font-weight:normal; text-align:left">Xtrackers Global Government Bond UCITS ETF 5C Acc<br>ISIN&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=LU0908508731#overview">LU0908508731</a></span> EUR<br>Следи индекса: FTSE World Government Bond Developed Market
+<th rowspan="5" style="font-weight:normal; text-align:left">Xtrackers Global Government Bond UCITS ETF 5C Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=LU0908508731#overview">LU0908508731</a></span> EUR<br>Следи индекса: FTSE World Government Bond Developed Market
 </th>
 <td rowspan="5">Световни държавни облигации - развити държави <br> нехеджирани
 </td>
@@ -154,7 +154,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="2" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span> USD<br>Tracking an index composed of local currency bonds issued by governments of developed countries
+<th rowspan="2" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span> USD<br>Tracking an index composed of local currency bonds issued by governments of developed countries
 </th>
 <td rowspan="2">Световни държавни облигации - развити държави <br> нехеджирани
 </td>
@@ -173,7 +173,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">Xtrackers II Global Government Bond ETF EUR Hedged Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=LU0378818131#overview">LU0378818131</a></span> EUR<br>Tracking FTSE World Government Bond Index – Developed Markets
+<th style="font-weight:normal; text-align:left">Xtrackers II Global Government Bond ETF EUR Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=LU0378818131#overview">LU0378818131</a></span> EUR<br>Tracking FTSE World Government Bond Index – Developed Markets
 </th>
 <td>World developed government bond  <br> hedged (€)<sup id="cite_ref-eurohedge_5-0" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
 </td>
@@ -187,7 +187,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF $ Hedged Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK7Y2P34#overview">IE00BK7Y2P34</a></span> USD<br>Tracking FTSE G7 Government Bond Index
+<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF $ Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK7Y2P34#overview">IE00BK7Y2P34</a></span> USD<br>Tracking FTSE G7 Government Bond Index
 </th>
 <td>World developed government bond <br> hedged ($)<sup id="cite_ref-eurohedge_5-1" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
 </td>
@@ -204,7 +204,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Global aggregate bonds
 </th></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF USD Hedged Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BZ043R46#overview">IE00BZ043R46</a></span> USD<br>Tracking the Bloomberg Barclays Global Aggregate Bond Index
+<th style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF USD Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BZ043R46#overview">IE00BZ043R46</a></span> USD<br>Tracking the Bloomberg Barclays Global Aggregate Bond Index
 </th>
 <td>Global aggregate  <br> hedged (US$)
 </td>
@@ -218,7 +218,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF EUR Hedged Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDBRDM35#overview">IE00BDBRDM35</a></span> EUR<br>Tracking the Bloomberg Barclays Global Aggregate Bond Index
+<th rowspan="3" style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF EUR Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDBRDM35#overview">IE00BDBRDM35</a></span> EUR<br>Tracking the Bloomberg Barclays Global Aggregate Bond Index
 </th>
 <td rowspan="3">Global aggregate  <br> hedged (€)<sup id="cite_ref-eurohedge_5-2" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
 </td>
@@ -242,7 +242,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF USD Hedged Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span> USD<br>Tracking the Bloomberg Barclays Global Aggregate Float Adjusted and Scaled Index Hedged in USD
+<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF USD Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span> USD<br>Tracking the Bloomberg Barclays Global Aggregate Float Adjusted and Scaled Index Hedged in USD
 </th>
 <td>Global aggregate  <br> hedged (US$)
 </td>
@@ -256,7 +256,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF EUR Hedged Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KH54#overview">IE00BG47KH54</a></span> EUR<br>Tracking the Bloomberg Barclays Global Aggregate Float Adjusted and Scaled Index Hedged in Euro
+<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF EUR Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KH54#overview">IE00BG47KH54</a></span> EUR<br>Tracking the Bloomberg Barclays Global Aggregate Float Adjusted and Scaled Index Hedged in Euro
 </th>
 <td>Global aggregate  <br> hedged (€)<sup id="cite_ref-eurohedge_5-3" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
 </td>
@@ -273,7 +273,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Stocks
 </th></tr>
 <tr>
-<th rowspan="6" style="font-weight:normal; text-align:left">iShares Core MSCI World ETF USD Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983#overview">IE00B4L5Y983</a></span> USD<br>Tracking the MSCI World Index
+<th rowspan="6" style="font-weight:normal; text-align:left">iShares Core MSCI World ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983#overview">IE00B4L5Y983</a></span> USD<br>Tracking the MSCI World Index
 </th>
 <td rowspan="6">Global, developed markets<br> Large cap and mid  cap
 </td>
@@ -312,7 +312,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="5" style="font-weight:normal; text-align:left">SPDR MSCI World UCITS ETF USD Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BFY0GT14#overview">IE00BFY0GT14</a></span> USD<br>Tracking the MSCI World index
+<th rowspan="5" style="font-weight:normal; text-align:left">SPDR MSCI World UCITS ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BFY0GT14#overview">IE00BFY0GT14</a></span> USD<br>Tracking the MSCI World index
 </th>
 <td rowspan="5">Global, developed markets<br>  Large cap and mid  cap
 </td>
@@ -346,7 +346,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard FTSE All-World UCITS ETF USD Acc<br><a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK5BQT80#overview">IE00BK5BQT80</a></span> USD<br>Tracking the FTSE All-World Index
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard FTSE All-World UCITS ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK5BQT80#overview">IE00BK5BQT80</a></span> USD<br>Tracking the FTSE All-World Index
 </th>
 <td rowspan="3">Global, developed and emerging markets<br>  Large cap and mid cap
 </td>
@@ -370,7 +370,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="6" style="font-weight:normal; text-align:left">iShares MSCI ACWI UCITS ETF USD Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B6R52259#overview">IE00B6R52259</a></span> USD<br>Tracking the MSCI ACWI Index
+<th rowspan="6" style="font-weight:normal; text-align:left">iShares MSCI ACWI UCITS ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B6R52259#overview">IE00B6R52259</a></span> USD<br>Tracking the MSCI ACWI Index
 </th>
 <td rowspan="6">Global, developed and emerging markets<br> Large cap
 </td>
@@ -412,7 +412,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Emerging markets
 </th></tr>
 <tr>
-<th rowspan="6" style="font-weight:normal; text-align:left">iShares Core MSCI EM IMI ETF USD Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BKM4GZ66#overview">IE00BKM4GZ66</a></span> USD<br>Tracking the MSCI Emerging Markets Investable Market Index
+<th rowspan="6" style="font-weight:normal; text-align:left">iShares Core MSCI EM IMI ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BKM4GZ66#overview">IE00BKM4GZ66</a></span> USD<br>Tracking the MSCI Emerging Markets Investable Market Index
 </th>
 <td rowspan="6">Emerging markets<br> Large cap, mid cap, and small cap
 </td>
@@ -454,7 +454,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Optional (world small cap)
 </th></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">iShares MSCI World Small Cap ETF USD Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31#overview">IE00BF4RFH31</a></span> USD<br>Tracking the MSCI World Small Cap Index
+<th rowspan="3" style="font-weight:normal; text-align:left">iShares MSCI World Small Cap ETF USD Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31#overview">IE00BF4RFH31</a></span> USD<br>Tracking the MSCI World Small Cap Index
 </th>
 <td rowspan="3">MSCI World developed markets <br>Small cap
 </td>
@@ -481,7 +481,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th colspan="6" style="text-align:left">Multi-asset (single fund portfolio options)<sup id="cite_ref-eurohedge_2_6-0" class="reference"><a href="#cite_note-eurohedge_2-6">[note 5]</a></sup>
 </th></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 20% Equity ETF Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5K07#overview">IE00BMVB5K07</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 20% Equity ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5K07#overview">IE00BMVB5K07</a></span> EUR
 </th>
 <td rowspan="3">20% by value of equity securities and 80% by value of fixed income securities <br>hedged (€) (bonds only)
 </td>
@@ -505,7 +505,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 40% Equity ETF Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5M21#overview">IE00BMVB5M21</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 40% Equity ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5M21#overview">IE00BMVB5M21</a></span> EUR
 </th>
 <td rowspan="3">40% by value of equity securities and 60% by value of fixed income securities <br>hedged (€) (bonds only)
 </td>
@@ -529,7 +529,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 60% Equity ETF Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5P51#overview">IE00BMVB5P51</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 60% Equity ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5P51#overview">IE00BMVB5P51</a></span> EUR
 </th>
 <td rowspan="3">60% by value of equity securities and 40% by value of fixed income securities <br>hedged (€) (bonds only)
 </td>
@@ -553,7 +553,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 80% Equity ETF Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5R75#overview">IE00BMVB5R75</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 80% Equity ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5R75#overview">IE00BMVB5R75</a></span> EUR
 </th>
 <td rowspan="3">80% by value of equity securities and 20% by value of fixed income securities <br>hedged (€) (bonds only)
 </td>
