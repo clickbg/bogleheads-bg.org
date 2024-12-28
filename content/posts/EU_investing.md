@@ -105,6 +105,10 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 
 ## Фондове подходящи за натрупващи портфейли
 
+![България](/img/bgflag.png)
+> Натрупващите (accumulating) фондове са препоръчителни за българи защото дивидента от разпределящи фондове се таксува с данък печалба докато печалбата от натрупващите фондове е освободена от данък печалба стига да ти продавате на регулирани от ESMA борси.о
+> Повече информация за облагането на фондове в България може да намерите в статията ни за [ETF](/dict/etf/#%d0%b4%d0%b0%d0%bd%d1%8a%d1%86%d0%b8)
+
 <table style="background:none; border:none; text-align:center">
 <caption>Селекция от фондове, подходящи за натрупващи портфейли
 </caption>
@@ -573,6 +577,256 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td>EUR</td>
 <td>VNGA80
 </td></tr></tbody></table>
+
+## Фондове подходящи за разпределящи портфейли
+
+![България](/img/bgflag.png)
+> Натрупващите (accumulating) фондове са препоръчителни за българи защото дивидента от разпределящи фондове се таксува с данък печалба докато печалбата от натрупващите фондове е освободена от данък печалба стига да ти продавате на регулирани от ESMA борси.о
+> Повече информация за облагането на фондове в България може да намерите в статията ни за [ETF](/dict/etf/#%d0%b4%d0%b0%d0%bd%d1%8a%d1%86%d0%b8)
+
+<table class="wikitable" style="background:none; border:none; text-align:center">
+<caption>Selection of suggested funds for distributing portfolios
+</caption>
+<tbody><tr>
+<th>Name<br>ISIN, base currency and tracking indices</th>
+<th>Description and comments</th>
+<th>TER</th>
+<th>Exchanges</th>
+<th>Trading<br>currency</th>
+<th>Ticker
+</th></tr>
+<tr>
+<th colspan="6" style="text-align:left">Global aggregate bonds
+</th></tr>
+<tr>
+<th rowspan="4" style="font-weight:normal; text-align:left">iShares Core Global Aggregate Bond UCITS ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81409#overview">IE00B3F81409</a></span> USD<br>Tracking an index composed of global investment grade bonds
+</th>
+<td rowspan="4">Global aggregate  <br> unhedged
+</td>
+<td rowspan="4">0.10%
+</td>
+<td rowspan="2">London
+</td>
+<td>GBP</td>
+<td>SAGG
+</td></tr>
+<tr>
+<td>USD</td>
+<td>AGGG
+</td></tr>
+<tr>
+<td>Swiss</td>
+<td>USD</td>
+<td>AGGG
+</td></tr>
+<tr>
+<td>Xetra</td>
+<td>EUR</td>
+<td>EUNU
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF EUR Hedged Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KB92#overview">IE00BG47KB92</a></span> USD<br>Tracking the Bloomberg Barclays Global Aggregate Float Adjusted and Scaled Index Hedged
+</th>
+<td>Global aggregate  <br> hedged (€)<sup id="cite_ref-eurohedge_5-4" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
+</td>
+<td>0.10%
+</td>
+<td>Xetra</td>
+<td>EUR</td>
+<td>VAGE
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="6" style="text-align:left">Global government bonds
+</th></tr>
+<tr>
+<th rowspan="4" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81K65#overview">IE00B3F81K65</a></span> USD<br>Tracking an index composed of local currency bonds issued by governments of developed countries
+</th>
+<td rowspan="4">World developed government bond <br> unhedged
+</td>
+<td rowspan="4">0.20%
+</td>
+<td>Deutsche Börse</td>
+<td>EUR</td>
+<td>EUN3
+</td></tr>
+<tr>
+<td rowspan="2">London
+</td>
+<td>GBP</td>
+<td>SGLO
+</td></tr>
+<tr>
+<td>USD</td>
+<td>IGLO
+</td></tr>
+<tr>
+<td>Swiss</td>
+<td>CHF</td>
+<td>IGLO
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF GBP Hedged <br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDFK3H31#overview">IE00BDFK3H31</a></span> USD<br>  Tracking the FTSE G7 Government Bond Index
+</th>
+<td>World developed government bond <br> hedged (£)<sup id="cite_ref-gbphedge_7-0" class="reference"><a href="#cite_note-gbphedge-7">[note 6]</a></sup>
+</td>
+<td>0.20%
+</td>
+<td>London</td>
+<td>GBP</td>
+<td>IGLH
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="6" style="text-align:left">Stocks
+</th></tr>
+<tr>
+<th rowspan="6" style="font-weight:normal; text-align:left">Vanguard FTSE All-World UCITS ETF <br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3RBWM25#overview">IE00B3RBWM25</a></span> USD<br>  Tracking the FTSE All-World Index
+</th>
+<td rowspan="6">World developed and emerging markets <br> Large cap and mid cap
+</td>
+<td rowspan="6">0.22%
+</td>
+<td rowspan="2">London
+</td>
+<td>GBP</td>
+<td>VWRL
+</td></tr>
+<tr>
+<td>USD</td>
+<td>VWRD
+</td></tr>
+<tr>
+<td>Euronext</td>
+<td>EUR</td>
+<td>VWRL
+</td></tr>
+<tr>
+<td>Xetra</td>
+<td>EUR</td>
+<td>VWRL
+</td></tr>
+<tr>
+<td>Swiss</td>
+<td>CHF</td>
+<td>VWRL
+</td></tr>
+<tr>
+<td>Chi-X</td>
+<td>CHF</td>
+<td>VWRLz
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="6" style="text-align:left">Multi-asset (single fund portfolio options)<sup id="cite_ref-eurohedge_2_6-1" class="reference"><a href="#cite_note-eurohedge_2-6">[note 5]</a></sup>
+</th></tr>
+<tr>
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 20% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5L14#overview">IE00BMVB5L14</a></span> EUR
+</th>
+<td rowspan="3">20% by value of equity securities and 80% by value of fixed income securities <br>hedged (€) (bonds only)
+</td>
+<td rowspan="3">0.25%
+</td>
+<td>Euronext</td>
+<td>EUR</td>
+<td>V20D
+</td></tr>
+<tr>
+<td>Deutsche Börse</td>
+<td>EUR</td>
+<td>V20D
+</td></tr>
+<tr>
+<td>Milan</td>
+<td>EUR</td>
+<td>VNGD20
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 40% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5N38#overview">IE00BMVB5N38</a></span> EUR
+</th>
+<td rowspan="3">40% by value of equity securities and 60% by value of fixed income securities <br>hedged (€) (bonds only)
+</td>
+<td rowspan="3">0.25%
+</td>
+<td>Euronext</td>
+<td>EUR</td>
+<td>V40D
+</td></tr>
+<tr>
+<td>Deutsche Börse</td>
+<td>EUR</td>
+<td>V40D
+</td></tr>
+<tr>
+<td>Milan</td>
+<td>EUR</td>
+<td>VNGD40
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 60% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5Q68#overview">IE00BMVB5Q68</a></span> EUR
+</th>
+<td rowspan="3">60% by value of equity securities and 40% by value of fixed income securities <br>hedged (€) (bonds only)
+</td>
+<td rowspan="3">0.25%
+</td>
+<td>Euronext</td>
+<td>EUR</td>
+<td>V60D
+</td></tr>
+<tr>
+<td>Deutsche Börse</td>
+<td>EUR</td>
+<td>V60D
+</td></tr>
+<tr>
+<td>Milan</td>
+<td>EUR</td>
+<td>VNGD60
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 80% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5S82#overview">IE00BMVB5S82</a></span> EUR
+</th>
+<td rowspan="3">80% by value of equity securities and 20% by value of fixed income securities <br>hedged (€) (bonds only)
+</td>
+<td rowspan="3">0.25%
+</td>
+<td>Euronext</td>
+<td>EUR</td>
+<td>V80D
+</td></tr>
+<tr>
+<td>Deutsche Börse</td>
+<td>EUR</td>
+<td>V80D
+</td></tr>
+<tr>
+<td>Milan</td>
+<td>EUR</td>
+<td>VNGD80
+</td></tr></tbody></table>
+
+
 
 **Източник**:
 
