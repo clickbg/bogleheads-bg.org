@@ -106,7 +106,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 
 ![България](/img/bgflag.png)
 > Натрупващите (accumulating) фондове са препоръчителни за българи защото дивидента от разпределящи фондове се таксува с данък печалба докато печалбата от натрупващите фондове е освободена от данък печалба стига да ти продавате на регулирани от ESMA борси.
-> Повече информация за облагането на фондове в България може да намерите в статията ни за [ETF](/dict/etf/#%d0%b4%d0%b0%d0%bd%d1%8a%d1%86%d0%b8)
+> Повече информация за облагането на фондове в България може да намерите в статията ни за [Данъци в България](/posts/taxes_in_bulgaria)
 
 <table style="background:none; border:none; text-align:center">
 <caption>Селекция от фондове, подходящи за натрупващи портфейли
@@ -581,26 +581,26 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 
 ![България](/img/bgflag.png)
 > Натрупващите (accumulating) фондове са препоръчителни за българи защото дивидента от разпределящи фондове се таксува с данък печалба докато печалбата от натрупващите фондове е освободена от данък печалба стига да ти продавате на регулирани от ESMA борси.
-> Повече информация за облагането на фондове в България може да намерите в статията ни за [ETF](/dict/etf/#%d0%b4%d0%b0%d0%bd%d1%8a%d1%86%d0%b8)
+> Повече информация за облагането на фондове в България може да намерите в статията ни за [Данъци в България](/posts/taxes_in_bulgaria)
 
-<table class="wikitable" style="background:none; border:none; text-align:center">
-<caption>Selection of suggested funds for distributing portfolios
+<table style="background:none; border:none; text-align:center">
+<caption>Селекция от фондове, подходящи за разпределящи портфейли
 </caption>
 <tbody><tr>
-<th>Name<br>ISIN, base currency and tracking indices</th>
-<th>Description and comments</th>
-<th>TER</th>
-<th>Exchanges</th>
-<th>Trading<br>currency</th>
-<th>Ticker
+<th>Име<br>ISIN, базова валута и индекс</th>
+<th>Описание и коментари</th>
+<th>Такса на година (TER)</th>
+<th>Борса</th>
+<th>Валута</th>
+<th>Тикер
 </th></tr>
 <tr>
-<th colspan="6" style="text-align:left">Global aggregate bonds
+<th colspan="6" style="text-align:left">Глобални агрегирани облигации
 </th></tr>
 <tr>
-<th rowspan="4" style="font-weight:normal; text-align:left">iShares Core Global Aggregate Bond UCITS ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81409#overview">IE00B3F81409</a></span> USD<br>Tracking an index composed of global investment grade bonds
+<th rowspan="4" style="font-weight:normal; text-align:left">iShares Core Global Aggregate Bond UCITS ETF Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81409#overview">IE00B3F81409</a></span> USD<br>Следи индекс съставен от глобални облигации класифицирани като подходящи за инвестиции (investment grade)
 </th>
-<td rowspan="4">Global aggregate  <br> unhedged
+<td rowspan="4">Колекция от глобални облигации  <br> нехеджирани
 </td>
 <td rowspan="4">0.10%
 </td>
@@ -627,9 +627,9 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF EUR Hedged Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KB92#overview">IE00BG47KB92</a></span> USD<br>Tracking the Bloomberg Barclays Global Aggregate Float Adjusted and Scaled Index Hedged
+<th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF EUR Hedged Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KB92#overview">IE00BG47KB92</a></span> USD<br>Следи индекса: Bloomberg Barclays Global Aggregate Float Adjusted and Scaled хеджирани
 </th>
-<td>Global aggregate  <br> hedged (€)<sup id="cite_ref-eurohedge_5-4" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
+<td>Колекция от глобални облигации  <br> хеджирани (€)
 </td>
 <td>0.10%
 </td>
@@ -641,12 +641,12 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th colspan="6" style="text-align:left">Global government bonds
+<th colspan="6" style="text-align:left">
 </th></tr>
 <tr>
-<th rowspan="4" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81K65#overview">IE00B3F81K65</a></span> USD<br>Tracking an index composed of local currency bonds issued by governments of developed countries
+<th rowspan="4" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81K65#overview">IE00B3F81K65</a></span> USD<br>Проследява индекс, съставен от облигации в местна валута, емитирани от правителства на развитите пазари
 </th>
-<td rowspan="4">World developed government bond <br> unhedged
+<td rowspan="4">Световни държавни облигации - развити пазари <br> нехеджирани
 </td>
 <td rowspan="4">0.20%
 </td>
@@ -673,9 +673,9 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF GBP Hedged <br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDFK3H31#overview">IE00BDFK3H31</a></span> USD<br>  Tracking the FTSE G7 Government Bond Index
+<th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF GBP Hedged <br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDFK3H31#overview">IE00BDFK3H31</a></span> USD<br>  Следи индекса: FTSE G7 Government Bond
 </th>
-<td>World developed government bond <br> hedged (£)<sup id="cite_ref-gbphedge_7-0" class="reference"><a href="#cite_note-gbphedge-7">[note 6]</a></sup>
+<td>Световни държавни облигации - развити пазари <br> хеджиран (£)
 </td>
 <td>0.20%
 </td>
@@ -687,12 +687,12 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th colspan="6" style="text-align:left">Stocks
+<th colspan="6" style="text-align:left">Акции
 </th></tr>
 <tr>
-<th rowspan="6" style="font-weight:normal; text-align:left">Vanguard FTSE All-World UCITS ETF <br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3RBWM25#overview">IE00B3RBWM25</a></span> USD<br>  Tracking the FTSE All-World Index
+<th rowspan="6" style="font-weight:normal; text-align:left">Vanguard FTSE All-World UCITS ETF <br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3RBWM25#overview">IE00B3RBWM25</a></span> USD<br>  Следи индекса: FTSE All-World Index
 </th>
-<td rowspan="6">World developed and emerging markets <br> Large cap and mid cap
+<td rowspan="6">Глобален, развити и развиващи се пазари <br> Фирми с голяма и средна капитализация
 </td>
 <td rowspan="6">0.22%
 </td>
@@ -729,12 +729,12 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th colspan="6" style="text-align:left">Multi-asset (single fund portfolio options)<sup id="cite_ref-eurohedge_2_6-1" class="reference"><a href="#cite_note-eurohedge_2-6">[note 5]</a></sup>
+<th colspan="6" style="text-align:left">Смесени фондове (опция за портфолио от 1 фонд)
 </th></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 20% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5L14#overview">IE00BMVB5L14</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 20% Equity ETF Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5L14#overview">IE00BMVB5L14</a></span> EUR
 </th>
-<td rowspan="3">20% by value of equity securities and 80% by value of fixed income securities <br>hedged (€) (bonds only)
+<td rowspan="3">20% акции 80% облигации <br>хеджирани (€) (само облигациите)
 </td>
 <td rowspan="3">0.25%
 </td>
@@ -756,9 +756,9 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 40% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5N38#overview">IE00BMVB5N38</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 40% Equity ETF Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5N38#overview">IE00BMVB5N38</a></span> EUR
 </th>
-<td rowspan="3">40% by value of equity securities and 60% by value of fixed income securities <br>hedged (€) (bonds only)
+<td rowspan="3">40% акции 60% облигации <br>хеджирани (€) (само облигациите)
 </td>
 <td rowspan="3">0.25%
 </td>
@@ -780,9 +780,9 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 60% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5Q68#overview">IE00BMVB5Q68</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 60% Equity ETF Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5Q68#overview">IE00BMVB5Q68</a></span> EUR
 </th>
-<td rowspan="3">60% by value of equity securities and 40% by value of fixed income securities <br>hedged (€) (bonds only)
+<td rowspan="3">60% акции 40% облигации <br>хеджирани (€) (само облигациите)
 </td>
 <td rowspan="3">0.25%
 </td>
@@ -804,9 +804,9 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 80% Equity ETF Dist<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5S82#overview">IE00BMVB5S82</a></span> EUR
+<th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 80% Equity ETF Dist<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5S82#overview">IE00BMVB5S82</a></span> EUR
 </th>
-<td rowspan="3">80% by value of equity securities and 20% by value of fixed income securities <br>hedged (€) (bonds only)
+<td rowspan="3">80% акции 20% облигации <br>хеджирани (€) (само облигациите)
 </td>
 <td rowspan="3">0.25%
 </td>
