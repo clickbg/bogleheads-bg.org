@@ -103,26 +103,26 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 
 Например, **Xtrackers Global Bond ETF (DBZB)** е базиран в Люксембург. Преди да инвестирате в този фонд, е важно да проверите данъчната си ситуация, за да разберете как тя може да повлияе на вашата възвръщаемост.
 
-[Примерен списък на различните фондове налични в Европа може да бъде намерен в Bogleheads US сайта.](https://www.bogleheads.org/wiki/EU_investing#Lists_of_ETF_funds)
+## Фондове подходящи за натрупващи портфейли
 
-<table class="wikitable" style="background:none; border:none; text-align:center">
-<caption>Selection of suggested funds for accumulating portfolios
+<table style="background:none; border:none; text-align:center">
+<caption>Селекция от фондове, подходящи за натрупващи портфейли
 </caption>
 <tbody><tr>
-<th>Name<br>ISIN, base currency and tracking indices</th>
-<th>Description and comments</th>
-<th>TER</th>
-<th>Exchanges</th>
-<th>Trading<br>currency</th>
-<th>Ticker
+<th>Име<br>ISIN, базова валута и индекс</th>
+<th>Описание и коментари</th>
+<th>Такса на година (TER)</th>
+<th>Борса</th>
+<th>Валута<br>на търгуване</th>
+<th>Тикер
 </th></tr>
 <tr>
-<th colspan="6" style="text-align:left">Global government bonds
+<th colspan="6" style="text-align:left">Световни държавни ценни книжа (облигации)
 </th></tr>
 <tr>
-<th rowspan="5" style="font-weight:normal; text-align:left">Xtrackers Global Government Bond UCITS ETF 5C Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=LU0908508731#overview">LU0908508731</a></span> EUR<br>Tracking FTSE World Government Bond Developed Market Index
+<th rowspan="5" style="font-weight:normal; text-align:left">Xtrackers Global Government Bond UCITS ETF 5C Acc<br>ISIN&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=LU0908508731#overview">LU0908508731</a></span> EUR<br>Следи индекса: FTSE World Government Bond Developed Market
 </th>
-<td rowspan="5">World developed government bond <br> unhedged
+<td rowspan="5">Световни държавни облигации - развити държави <br> нехеджирани
 </td>
 <td rowspan="5">0.20%
 </td>
@@ -154,9 +154,9 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th rowspan="2" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Acc<br> <a href="/wiki/ISIN_(identifier)" class="mw-redirect" title="ISIN (identifier)">ISIN</a>&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span> USD<br>Tracking an index composed of local currency bonds issued by governments of developed countries
+<th rowspan="2" style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS USD ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span> USD<br>Tracking an index composed of local currency bonds issued by governments of developed countries
 </th>
-<td rowspan="2">World developed government bond <br> unhedged
+<td rowspan="2">Световни държавни облигации - развити държави <br> нехеджирани
 </td>
 <td rowspan="2">0.20%
 </td>
