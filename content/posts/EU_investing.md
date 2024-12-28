@@ -113,7 +113,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <th>Описание и коментари</th>
 <th>Такса на година (TER)</th>
 <th>Борса</th>
-<th>Валута<br>на търгуване</th>
+<th>Валута</th>
 <th>Тикер
 </th></tr>
 <tr>
