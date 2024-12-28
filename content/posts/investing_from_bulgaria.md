@@ -1,8 +1,8 @@
 ---
-title: "Инвестиране от Европейския съюз"
+title: "Инвестиране от България"
 author: "Даниел"
 date: 2024-12-28T07:05:47+02:00
-slug: eu_investing
+slug: investing_from_bulgaria
 type: posts
 draft: false
 weight: 4
