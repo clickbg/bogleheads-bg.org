@@ -39,6 +39,7 @@ tags:
 
 Следните европейски фондови борси са най-популярни за търговия с установени в ЕС ETF. Този списък не е изчерпателен.
 
+-   [London](https://www.londonstockexchange.com/home/homepage.htm)  (LSE, London Stock Exchange)
 -   [Xetra](https://www.xetra.com/xetra-en/)  (Deutsche Börse, Frankfurt)
 -   [Euronext](https://www.euronext.com/en)  (Amsterdam, Brussels, Lisbon, Paris)
 -   [Milan Stock Exchange](https://www.borsaitaliana.it/homepage/homepage.en.htm)  (Borsa Italiana)
