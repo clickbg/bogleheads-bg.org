@@ -175,7 +175,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <tr>
 <th style="font-weight:normal; text-align:left">Xtrackers II Global Government Bond ETF EUR Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=LU0378818131#overview">LU0378818131</a></span> EUR<br>Следи FTSE World Government Bond Index – развити пазари
 </th>
-<td>Световни държавни облигации - развити пазари  <br> хеджиран (€)<sup id="cite_ref-eurohedge_5-0" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
+<td>Световни държавни облигации - развити пазари  <br> хеджиран (€)
 </td>
 <td>0.25%
 </td>
@@ -189,7 +189,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <tr>
 <th style="font-weight:normal; text-align:left">iShares Global Government Bond UCITS ETF $ Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK7Y2P34#overview">IE00BK7Y2P34</a></span> USD<br>Следи индекса: FTSE G7 Government Bond
 </th>
-<td>Световни държавни облигации - развити пазари <br> хеджиран ($)<sup id="cite_ref-eurohedge_5-1" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
+<td>Световни държавни облигации - развити пазари <br> хеджиран ($)
 </td>
 <td>0.25%
 </td>
@@ -220,7 +220,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <tr>
 <th rowspan="3" style="font-weight:normal; text-align:left">iShares Global Aggregate Bond ETF EUR Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDBRDM35#overview">IE00BDBRDM35</a></span> EUR<br>Следи индекса: Bloomberg Barclays Global Aggregate Bond
 </th>
-<td rowspan="3">Колекция от глобални облигации  <br> хеджирани (€)<sup id="cite_ref-eurohedge_5-2" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
+<td rowspan="3">Колекция от глобални облигации  <br> хеджирани (€)
 </td>
 <td rowspan="3">0.10%
 </td>
@@ -258,7 +258,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <tr>
 <th style="font-weight:normal; text-align:left">Vanguard Global Aggregate Bond ETF EUR Hedged Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KH54#overview">IE00BG47KH54</a></span> EUR<br>Следи индекса: Bloomberg Barclays Global Aggregate Float Adjusted and Scaled хеджиран в EUR
 </th>
-<td>Колекция от глобални облигации  <br> хеджиран (€)<sup id="cite_ref-eurohedge_5-3" class="reference"><a href="#cite_note-eurohedge-5">[note 4]</a></sup>
+<td>Колекция от глобални облигации  <br> хеджиран (€)
 </td>
 <td>0.10%
 </td>
@@ -478,7 +478,7 @@ LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 <td style="border:none; height:.4em">
 </td></tr>
 <tr>
-<th colspan="6" style="text-align:left"> Смесени фондове (опция за портфолио от 1 фонд)<sup id="cite_ref-eurohedge_2_6-0" class="reference"><a href="#cite_note-eurohedge_2-6">[note 5]</a></sup>
+<th colspan="6" style="text-align:left"> Смесени фондове (опция за портфолио от 1 фонд)
 </th></tr>
 <tr>
 <th rowspan="3" style="font-weight:normal; text-align:left">Vanguard LifeStrategy 20% Equity ETF Acc<br>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5K07#overview">IE00BMVB5K07</a></span> EUR
