@@ -142,7 +142,7 @@ LINK: https://www.bogleheads.org/wiki/Cash_equivalents_for_EU_investors
 - Валидна опция ли са парите в брой?
 
 ## Избягвайте обичайните поведенчески клопки
-LINK: https://www.bogleheads.org/wiki/Behavioral_pitfalls
+_Основна статия: [Поведенчески капани](/posts/behavioral_pitfalls)_
 
 Джонатан Клементс, бивш колумнист на Wall Street Journal, казва:
 
