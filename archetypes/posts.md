@@ -5,7 +5,7 @@ date: {{ .Date }}
 slug: {{ .Name | urlize }}
 type: posts
 draft: true
-weight: 10
+weight: 20
 categories:
   - Наръчници
 tags:
