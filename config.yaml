@@ -34,20 +34,15 @@ languages:
           params:
             external: true
           weight: 5
-        - name: Обратна връзка
-          url: https://github.com/clickbg/bogleheads-bg.org/issues
-          params:
-            external: true
-          weight: 10
         - name: Статии
           url: posts
-          weight: 15
+          weight: 10
         - name: Речник
           url: dict
-          weight: 20
+          weight: 15
         - name: Търси
           url: search
-          weight: 25
+          weight: 20
 
 outputs:
   home:
@@ -102,6 +97,8 @@ params:
       Ние не продаваме нищо и не предоставяме индивидуални финансови съвети. Всичко което ще намерите на този сайт е информация за един вид инвестиции - пасивните инвестиции. 
       Решението с кой брокер, в какво да инвестирате или дали да инвестирате изобщо е изцяло ваше! Основната ни цел е да преборим многобройните схеми и измами подвизаващи се в България чрез предоставяне на финансово образование на български език.
       Ако желаете да ни помогнете, можете да го направите чрез редакция на някоя от статиите тук или написването на нова статия в помощ на българските пасивни инвеститори.
+      Можете да се свържете с нас чрез формата ни за контакти в [GitHub](https://github.com/clickbg/bogleheads-bg.org/issues).
+      
 
   editPost:
     URL: "https://github.com/clickbg/bogleheads-bg.org/tree/main/content"
