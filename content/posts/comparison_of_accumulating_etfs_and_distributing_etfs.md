@@ -5,7 +5,7 @@ date: 2024-12-29T08:08:09+02:00
 slug: comparison_of_accumulating_etfs_and_distributing_etfs
 type: posts
 draft: false
-weight: 11
+weight: 13
 categories:
   - Наръчници
 tags:

@@ -5,7 +5,7 @@ date: 2024-12-29T16:24:54+02:00
 slug: risk_tolerance
 type: posts
 draft: false
-weight: 20
+weight: 12
 categories:
   - Наръчници
 tags:
