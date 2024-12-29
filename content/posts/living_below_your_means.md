@@ -5,7 +5,7 @@ date: 2024-12-23T18:33:25+02:00
 slug: living_below_your_means
 type: posts
 draft: false
-weight: 10
+weight: 7
 categories:
   - Наръчници
 tags:

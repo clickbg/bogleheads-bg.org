@@ -5,7 +5,7 @@ date: 2024-12-29T11:24:32+02:00
 slug: investment_policy_statement
 type: posts
 draft: false
-weight: 10
+weight: 6
 categories:
   - Наръчници
 tags:

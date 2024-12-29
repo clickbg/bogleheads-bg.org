@@ -5,7 +5,7 @@ date: 2024-12-24T06:36:31+02:00
 slug: emergency_fund
 type: posts
 draft: false
-weight: 9
+weight: 8
 categories:
   - Наръчници
 tags:

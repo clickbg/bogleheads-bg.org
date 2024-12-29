@@ -5,7 +5,7 @@ date: 2024-12-23T17:46:42+02:00
 slug: household_budgeting
 type: posts
 draft: false
-weight: 10
+weight: 9
 categories:
   - Наръчници
 tags:
