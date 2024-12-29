@@ -71,7 +71,7 @@ tags:
 | 2014 | Andrew Hallam.  _The Global Expatriate's Guide to Investing_.  [ISBN](https://www.bogleheads.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-1-119-02098-1](https://www.bogleheads.org/wiki/Special:BookSources/978-1-119-02098-1 "Special:BookSources/978-1-119-02098-1"). |
 
 ## Създайте инвестиционен план
-LINK - https://www.bogleheads.org/wiki/Investment_policy_statement
+_Основна статия: [Инвестиционна политика](/posts/investment_policy_statement)_
 
 Вашият инвестиционен план трябва да се фокусира върху вашето бъдеще и може да включва неща като нова кола или покупка на жилище след няколко години, разходи за образование на децата и пенсиониране. Всички тези цели изискват пари в различни времеви рамки, така че трябва да инвестирате по начин, който съответства на тези времеви рамки.
 
