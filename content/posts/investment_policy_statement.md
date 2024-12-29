@@ -1,5 +1,5 @@
 ---
-title: "Инвестиционна политика"
+title: "Лична инвестиционна политика"
 author: "Даниел"
 date: 2024-12-29T11:24:32+02:00
 slug: investment_policy_statement
