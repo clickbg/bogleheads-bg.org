@@ -184,7 +184,6 @@ _Основна статия: [Данъци в България](/posts/taxes_in
 
 #### Примерни портфолиа
 _Основна статия: [Пример: Прости портфейли](/posts/simple_portfolio_example)_
-LINK: https://www.bogleheads.org/wiki/Complex_non-US_portfolios
 
 Нашата методология е да инвестираме в добре диверсифицирани, евтини [индексни фондове](/dict/index_fund) търгувани на борси регулирани от ESMA.
 
