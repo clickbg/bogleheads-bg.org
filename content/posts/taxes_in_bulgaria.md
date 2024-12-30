@@ -63,7 +63,8 @@ _Основна статия: [Сравнение на натрупващи се
 ### Дивиденти от ETF
 
 ![България](/img/bgflag.png)
-> Повече относно данъчните аспекти на дивидентите от ETF-и можете да прочетете в тази публикация, която помогна и на нас: https://www.taxmonkey.bg/taxes-financial-assets/#h43
+> Повече относно данъчните аспекти на дивидентите от ETF-и можете да прочетете в [тази публикация](https://www.taxmonkey.bg/taxes-financial-assets/#h43), която помогна и на нас.
+> Препоръчваме ви и да се запознаете с краткото ръководство на НАП относно [облагането на доход от дивидент в България](https://nra.bg/wps/portal/nra/taxes/okonchatelen-danak-varhu-dohodi/dividenti).
 
 #### Разпределящи ETF-и
 _Основна статия: [Сравнение на натрупващи се ETF и разпределящи ETF](/posts/comparison_of_accumulating_etfs_and_distributing_etfs)_
