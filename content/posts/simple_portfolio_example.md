@@ -120,3 +120,6 @@ tags:
 
 ### Примерни портфейли с натрупващи (accumulating) ETF
 
+![България](/img/bgflag.png)
+> Повече за разликите между натрупващи и разпределящи ETF можете да намерите в статия ни [Сравнение на натрупващи се ETF и разпределящи ETF](/posts/comparison_of_accumulating_etfs_and_distributing_etfs)
+
