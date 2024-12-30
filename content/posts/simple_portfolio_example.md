@@ -162,7 +162,7 @@ tags:
 <td>Всеки</td>
 <td style="text-align:left;">
 <ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span>, IGLA - iShares Global Government Bond UCITS USD ETF Acc</li>
-<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span>, VAGU - Vanguard Global Aggregate Bond UCITS ETF - USD Hedged<sup id="cite_ref-hedging_3-0" class="reference"><a href="#cite_note-hedging-3">[note 3]</a></sup></li></ul>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span>, VAGU - Vanguard Global Aggregate Bond UCITS ETF - USD Hedged</li></ul>
 </td></tr>
 <tr>
 <td>Акции</td>
@@ -192,7 +192,7 @@ tags:
 <td>Всеки</td>
 <td style="text-align:left;">
 <ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span>, IGLA - iShares Global Government Bond UCITS USD ETF Acc</li>
-<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span>, VAGU - Vanguard Global Aggregate Bond UCITS ETF - USD Hedged<sup id="cite_ref-hedging_3-1" class="reference"><a href="#cite_note-hedging-3">[note 3]</a></sup></li></ul>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span>, VAGU - Vanguard Global Aggregate Bond UCITS ETF - USD Hedged</li></ul>
 </td></tr>
 <tr>
 <td>Акции</td>
