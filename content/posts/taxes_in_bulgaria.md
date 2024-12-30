@@ -17,12 +17,8 @@ tags:
 > **Важно!**
 > Следващата информация е само ориентир за това как работят данъците в България. Това не е пълен справочник или данъчен съвет. Нашия съвет е да наемете лицензиран счетоводител поне през първата година от инвестиционното ви пътешествие за да получите правилен съвет как и какво във вашето портфолио се облага.
 >
-> Можете да намерите пълни справочници за попълване на данъчна декларация в следните статии написани от лицензирани счетоводители:
-> https://www.taxmonkey.bg/taxes-financial-assets/  
-> https://nula.bg/blog/fondove-akcii-etf/  
->
-> Както и на официалния сайт на НАП:
-> https://nra.bg/wps/portal/nra/taxes/godishen-danak-varhu-dohdite/danak-vurhu-dohodite-na-fizicheskite-lica
+> Можете да намерите пълни справочници за попълване на данъчна декларация в статии написани от лицензирани счетоводители като [TaxMonkey](https://www.taxmonkey.bg/taxes-financial-assets/) и [Nula.BG](https://nula.bg/blog/fondove-akcii-etf/) както и на официалния сайт на [НАП](https://nra.bg/wps/portal/nra/taxes/godishen-danak-varhu-dohdite/danak-vurhu-dohodite-na-fizicheskite-lica).
+> **Внимание, ние не сме асоциирани с тези фирми. Моля проучете ги сами преди да им се доверите.**
 
 
 Доходите от дялове в колективни инвестиционни схеми, реализирани от физически лица, могат да бъдат както облагаеми, така и освободени от данъчно облагане според [Закона за данъците върху доходите на физическите лица (ЗДДФЛ)](https://nra.bg/wps/portal/nra/taxes/godishen-danak-varhu-dohdite/danak-vurhu-dohodite-na-fizicheskite-lica).
