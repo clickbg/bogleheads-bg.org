@@ -18,8 +18,8 @@ tags:
 > Следващата информация е само ориентир за това как работят данъците в България. Това не е пълен справочник или данъчен съвет. Нашия съвет е да наемете лицензиран счетоводител поне през първата година от инвестиционното ви пътешествие за да получите правилен съвет как и какво във вашето портфолио се облага.
 >
 > Можете да намерите пълни справочници за попълване на данъчна декларация в следните статии написани от лицензирани счетоводители:
-> https://www.taxmonkey.bg/taxes-financial-assets/
-> https://nula.bg/blog/fondove-akcii-etf/
+> https://www.taxmonkey.bg/taxes-financial-assets/  
+> https://nula.bg/blog/fondove-akcii-etf/  
 >
 > Както и на официалния сайт на НАП:
 > https://nra.bg/wps/portal/nra/taxes/godishen-danak-varhu-dohdite/danak-vurhu-dohodite-na-fizicheskite-lica
@@ -129,6 +129,6 @@ UCITS ETF-ите обикновено са базирани в Люксембу�
 
 **Източници:**
 
-https://www.taxmonkey.bg/taxes-financial-assets/
-https://nula.bg/blog/fondove-akcii-etf/
-https://nra.bg/wps/portal/nra/taxes/godishen-danak-varhu-dohdite/danak-vurhu-dohodite-na-fizicheskite-lica
+https://www.taxmonkey.bg/taxes-financial-assets/  
+https://nula.bg/blog/fondove-akcii-etf/  
+https://nra.bg/wps/portal/nra/taxes/godishen-danak-varhu-dohdite/danak-vurhu-dohodite-na-fizicheskite-lica  
