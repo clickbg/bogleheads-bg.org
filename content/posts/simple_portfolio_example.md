@@ -123,3 +123,96 @@ tags:
 ![България](/img/bgflag.png)
 > Повече за разликите между натрупващи и разпределящи ETF можете да намерите в статия ни [Сравнение на натрупващи се ETF и разпределящи ETF](/posts/comparison_of_accumulating_etfs_and_distributing_etfs)
 
+<table style="width:100%; background:none; border:none; text-align:center">
+<tbody><tr>
+<th>Клас на активите</th>
+<th>Инвеститор</th>
+<th>Предложения за ETF</th>
+<th>Количество
+</th></tr>
+<tr>
+<th colspan="4" style="text-align:left">Един фонд, натрупващ портфейл
+</th></tr>
+<tr>
+<td>Смесен</td>
+<td>Инвеститор от България - ЕС<br></td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5K07#overview">IE00BMVB5K07</a></span>, V20A / VNGA20 - Vanguard LifeStrategy 20% Equity ETF Acc</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5M21#overview">IE00BMVB5M21</a></span>, V40A / VNGA40 - Vanguard LifeStrategy 40% Equity ETF Acc</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5P51#overview">IE00BMVB5P51</a></span>, V60A / VNGA60 - Vanguard LifeStrategy 60% Equity ETF Acc</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5R75#overview">IE00BMVB5R75</a></span>, V80A / VNGA80 - Vanguard LifeStrategy 80% Equity ETF Acc</li></ul>
+</td>
+<td>По лична преценка
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:left">Два фонда, натрупващ портфейл
+</th></tr>
+<tr>
+<td rowspan="2">Облигации</td>
+<td>Инвеститор от България - ЕС</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDBRDM35#overview">IE00BDBRDM35</a></span>, AGGH / EUNA - iShares Global Aggregate Bond ETF EUR Hedged</li></ul>
+</td>
+<td rowspan="2">По лична преценка
+</td></tr>
+<tr>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span>, IGLA - iShares Global Government Bond UCITS USD ETF Acc</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span>, VAGU - Vanguard Global Aggregate Bond UCITS ETF - USD Hedged<sup id="cite_ref-hedging_3-0" class="reference"><a href="#cite_note-hedging-3">[note 3]</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>Акции</td>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983#overview">IE00B4L5Y983</a></span>, IWDA / EUNL / SWDA - iShares Core MSCI World ETF</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BK5BQT80#overview">IE00BK5BQT80</a></span>, VWRP / VWRA / VWCE - Vanguard FTSE All-World UCITS ETF</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B6R52259#overview">IE00B6R52259</a></span>, SSAC / ISAC / IUSQ - iShares MSCI ACWI UCITS ETF</li></ul>
+</td>
+<td>По лична преценка
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:left">Три фонда, натрупващ портфейл
+</th></tr>
+<tr>
+<td rowspan="2">Облигации</td>
+<td>Инвеститор от България - ЕС</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BDBRDM35#overview">IE00BDBRDM35</a></span>, AGGH / EUNA - iShares Global Aggregate Bond ETF EUR Hedged</li></ul>
+</td>
+<td rowspan="2">По лична преценка
+</td></tr>
+<tr>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BYZ28V50#overview">IE00BYZ28V50</a></span>, IGLA - iShares Global Government Bond UCITS USD ETF Acc</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KJ78#overview">IE00BG47KJ78</a></span>, VAGU - Vanguard Global Aggregate Bond UCITS ETF - USD Hedged<sup id="cite_ref-hedging_3-1" class="reference"><a href="#cite_note-hedging-3">[note 3]</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>Акции</td>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983#overview">IE00B4L5Y983</a></span>, IWDA / EUNL / SWDA - iShares Core MSCI World ETF</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B6R52259#overview">IE00B6R52259</a></span>, SSAC / ISAC / IUSQ - iShares MSCI ACWI UCITS ETF</li></ul>
+</td>
+<td>85-90% от акции
+</td></tr>
+<tr>
+<td>Развиващи се пазари</td>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BKM4GZ66#overview">IE00BKM4GZ66</a></span>, EIMI / EMIM / IS3N - iShares Core MSCI EM IMI</li></ul>
+</td>
+<td>10-15% от акции
+</td></tr></tbody></table>
+
+### Примерни портфейли с разпределящи (distributing) ETF
+
+![България](/img/bgflag.png)
+> Повече за разликите между натрупващи и разпределящи ETF можете да намерите в статия ни [Сравнение на натрупващи се ETF и разпределящи ETF](/posts/comparison_of_accumulating_etfs_and_distributing_etfs)
