@@ -216,3 +216,85 @@ tags:
 
 ![България](/img/bgflag.png)
 > Повече за разликите между натрупващи и разпределящи ETF можете да намерите в статия ни [Сравнение на натрупващи се ETF и разпределящи ETF](/posts/comparison_of_accumulating_etfs_and_distributing_etfs)
+
+<table style="width:100%; background:none; border:none; text-align:center">
+<tbody><tr>
+<th>Клас на активите</th>
+<th>Инвеститор</th>
+<th>Предложения за ETF</th>
+<th>Количество
+</th></tr>
+<tr>
+<th colspan="4" style="text-align:left">Един фонд, разпределящо портфолио
+</th></tr>
+<tr>
+<td>Смесен</td>
+<td>Инвеститор от България - ЕС<br></td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5L14#overview">IE00BMVB5L14</a></span>, V20D / VNGD20 - Vanguard LifeStrategy 20% Equity ETF Dist</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5N38#overview">IE00BMVB5N38</a></span>, V40D / VNGD40 - Vanguard LifeStrategy 40% Equity ETF Dist</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5Q68#overview">IE00BMVB5Q68</a></span>, V60D / VNGD60 - Vanguard LifeStrategy 60% Equity ETF Dist</li>
+<li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5S82#overview">IE00BMVB5S82</a></span>, V80D / VNGD80 - Vanguard LifeStrategy 80% Equity ETF Dist</li></ul>
+</td>
+<td>По лична преценка
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:left">Два фонда, разпределящо портфолио
+</th></tr>
+<tr>
+<td rowspan="2">Облигации</td>
+<td>Инвеститор от България - ЕС</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KB92#overview">IE00BG47KB92</a></span>, VAGE - Vanguard Global Aggregate ETF EUR Hedged</li></ul>
+</td>
+<td rowspan="2">По лична преценка
+</td></tr>
+<tr>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81409#overview">IE00B3F81409</a></span>, AGGG / SAGG / EUNU - iShares Core Global Aggregate Bond UCITS ETF Dist</li></ul>
+</td></tr>
+<tr>
+<td>Акции</td>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3RBWM25#overview">IE00B3RBWM25</a></span>, VWRL / VWRD - Vanguard FTSE All-World UCITS ETF</li></ul>
+</td>
+<td>По лична преценка
+</td></tr>
+<tr>
+<td style="border:none; height:.4em">
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:left">Три фонда, разпределящо портфолио
+</th></tr>
+<tr>
+<td rowspan="2">Облигации</td>
+<td>Инвеститор от България - ЕС</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00BG47KB92#overview">IE00BG47KB92</a></span>, VAGE - Vanguard Global Aggregate ETF EUR Hedged</li></ul>
+</td>
+<td rowspan="2">По лична преценка
+</td></tr>
+<tr>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3F81409#overview">IE00B3F81409</a></span>, AGGG / SAGG / EUNU - iShares Core Global Aggregate Bond UCITS ETF Dist</li></ul>
+</td></tr>
+<tr>
+<td>Акции</td>
+<td>Всеки</td>
+<td style="text-align:left;">
+<ul><li>ISIN&nbsp;<span class="plainlinks"><a target="_blank" rel="noopener noreferrer" href="https://www.justetf.com/en/etf-profile.html?isin=IE00B3RBWM25#overview">IE00B3RBWM25</a></span>, VWRL / VGWL / VWRD - Vanguard FTSE All-World UCITS ETF</li></ul>
+</td>
+<td>По лична преценка
+</td></tr>
+<tr>
+<td>Развиващи се пазари</td>
+<td>Всеки</td>
+<td style="text-align: left;">Включени в VWRL / VGWL / VWRD</td>
+<td>(Няма)
+</td></tr></tbody></table>
