@@ -13,20 +13,25 @@
 
 Платформата Hugo (GoHugo) е сравнително лесна за употреба. Съдържанието се пише в Markdown формат а Hugo генерира чист HTML. Ако нямате редактор за Markdown под ръка, можете да ползвате този - https://stackedit.io/ или да редактирате страниците директно тук в GitHub. 
 
-### Създаване на нова тема
-`git checkout -b new_topic`
-`hugo new content posts/new_topic.md`
+### Как да добавите или редактирате тема в този проект
+1. [Копирайте (fork) този проект към вашия акаунт](https://help.github.com/articles/fork-a-repo/)
+2. [Създайте клон (branch) за промяната, която възнамерявате да направите](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository)
+3. Направете вашите промени във вашата версия на проекта
 
-За създаване на нова тема в речника ползвайте:
-`hugo new content dict/new_topic.md`
+#### Създаване на нова тема
+`git checkout -b new_topic`  
+`hugo new content posts/new_topic.md`  
 
-Редактирайте posts/new_topic.md и когато сте готови:
+За създаване на нова тема в речника ползвайте:  
+`hugo new content dict/new_topic.md`  
 
-`git add .`
-`git commit -m "My new topic"`
-`git push`
+Редактирайте posts/new_topic.md и когато сте готови:  
+`git add .`  
+`git commit -m "My new topic"`  
+`git push`  
 
-След това се връщате тук в GitHub и създавате нов pull request които ще бъде прегледан и одобрен или отхвърлен.
+4. [Изпратете заявка за изтегляне (pull request) от клона на вашето копие на проекта към основния ни клон (main)](https://help.github.com/articles/using-pull-requests/)
+
 
 ## Контакти
 
