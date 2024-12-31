@@ -35,9 +35,12 @@ languages:
         - name: Речник
           url: dict
           weight: 15
+        - name: Инструменти
+          url: tools
+          weight: 20
         - name: Търси
           url: search
-          weight: 20
+          weight: 25
 
 outputs:
   home:
