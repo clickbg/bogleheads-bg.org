@@ -1,4 +1,5 @@
 name = "bogleheads-bg-org"
+pages_build_output_dir = "./public"
 
 [vars]
 HUGO_VERSION = "v0.125.7"
