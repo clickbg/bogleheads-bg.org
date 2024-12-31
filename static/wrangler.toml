@@ -1,0 +1,4 @@
+name = "bogleheads-bg-org"
+
+[vars]
+HUGO_VERSION = "v0.125.7"
