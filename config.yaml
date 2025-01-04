@@ -14,6 +14,7 @@ enableEmoji: true
 pygmentsUseClasses: true
 disableHugoGeneratorInject: true
 mainsections: ["posts", "papermod"]
+googleAnalytics: "G-YD30SMS301"
 
 minify:
   disableXML: true
