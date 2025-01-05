@@ -2,7 +2,7 @@
 title: "Ресурси"
 author: "Даниел"
 layout: "single"
-url: "/tools/"
+url: "/resources/"
 summary: Ресурси
 keywords:
   - инвестиции
