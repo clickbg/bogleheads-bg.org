@@ -30,13 +30,13 @@ languages:
     menu:
       main:
         - name: Наръчници
-          url: categories/наръчници/
+          url: posts
           weight: 10
         - name: Статии
-          url: categories/статии/
+          url: articles
           weight: 15
         - name: Речник
-          url: categories/речник/
+          url: dict
           weight: 20
         - name: Ресурси
           url: resources
