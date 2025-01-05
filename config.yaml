@@ -48,6 +48,12 @@ outputs:
     - RSS
     - JSON
 
+sitemap:
+  changeFreq: always
+  disable: false
+  filename: sitemap.xml
+  priority: -1
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: 'Българската общност на пасивните инвеститори'
