@@ -1,6 +1,6 @@
 ---
-title: "Статии"
+title: "Публикации"
 layout: "list"
 url: "/posts/"
-summary: Статии
+summary: Публикации
 ---
