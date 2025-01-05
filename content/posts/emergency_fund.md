@@ -9,7 +9,6 @@ weight: 8
 categories:
   - Наръчници
 tags:
-  - Начинаещи
   - Наръчници
 keywords:
   - инвестиции
