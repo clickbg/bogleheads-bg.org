@@ -29,18 +29,21 @@ languages:
       series: series
     menu:
       main:
-        - name: Статии
-          url: posts
+        - name: Наръчници
+          url: /tags/наръчници/
           weight: 10
+        - name: Статии
+          url: /tags/статии/
+          weight: 15
         - name: Речник
           url: dict
-          weight: 15
-        - name: Инструменти
-          url: tools
           weight: 20
+        - name: Помагала
+          url: tools
+          weight: 25
         - name: Търси
           url: search
-          weight: 25
+          weight: 30
 
 outputs:
   home:
@@ -49,7 +52,7 @@ outputs:
     - JSON
 
 sitemap:
-  changeFreq: always
+  changeFreq: weekly
   disable: false
   filename: sitemap.xml
   priority: -1
