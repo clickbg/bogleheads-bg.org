@@ -5,7 +5,7 @@ date: 2025-01-05T12:48:31+02:00
 slug: effects_of_interest_rate_risk_on_bond_etfs
 type: posts
 draft: false
-weight: 20
+weight: 30
 categories:
   - Статии
 tags:
