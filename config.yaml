@@ -39,7 +39,7 @@ languages:
           url: dict
           weight: 20
         - name: Ресурси
-          url: tools
+          url: books
           weight: 25
         - name: Търси
           url: search
