@@ -7,9 +7,9 @@ type: posts
 draft: false
 weight: 20
 categories:
-  - Наръчници
+  - Статии
 tags:
-  - Наръчници
+  - Статии
 keywords:
   - инвестиции
   - инвестиция
