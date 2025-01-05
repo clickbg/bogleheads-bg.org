@@ -3,13 +3,13 @@ title: "{{ replace .Name "-" " " | title }}"
 author: "Анонимен"
 date: {{ .Date }}
 slug: {{ .Name | urlize }}
-type: posts
+type: articles
 draft: true
 weight: 30
 categories:
-  - Наръчници
+  - Статии
 tags:
-  - Наръчници
+  - Статии
 keywords:
   - инвестиции
   - инвестиция
@@ -24,8 +24,6 @@ keywords:
   - богълхедс
   - богъл
   - джак
-  - как
-  - да
-  - наръчник
-  - наръчници
+  - статия
+  - статии
 ---
