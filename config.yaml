@@ -29,7 +29,7 @@ languages:
       series: series
     menu:
       main:
-        - name: Наръчници
+        - name: Наръчник
           url: posts
           weight: 10
         - name: Статии
