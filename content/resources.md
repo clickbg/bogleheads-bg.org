@@ -1,6 +1,7 @@
 ---
 title: "Ресурси"
 author: "Даниел"
+hideMeta: true
 layout: "single"
 url: "/resources/"
 summary: Ресурси

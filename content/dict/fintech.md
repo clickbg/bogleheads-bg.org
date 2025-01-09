@@ -2,6 +2,7 @@
 title: "ФинТех"
 summary: "Съкратено съединение от „финансова технология“"
 author: "Даниел"
+hideMeta: true
 date: 2024-12-25T14:42:55+02:00
 slug: fintech
 type: dict

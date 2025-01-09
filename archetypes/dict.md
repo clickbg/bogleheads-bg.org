@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 summary: "Write a summary"
 author: "Анонимен"
+hideMeta: true
 date: {{ .Date }}
 slug: {{ .Name | urlize }}
 type: dict

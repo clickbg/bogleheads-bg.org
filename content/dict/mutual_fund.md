@@ -2,6 +2,7 @@
 title: "Взаимни фондове"
 summary: "Взаимните фондове са тип колективна инвестиционна схема"
 author: "Даниел"
+hideMeta: true
 date: 2024-12-26T09:00:09+02:00
 slug: mutual_fund
 aliases:
